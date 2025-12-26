@@ -1,4 +1,5 @@
 # Nano_Mango
+SAMPLE APK LINK- https://drive.google.com/file/d/1mdRF9tgjzKtEKcMilbOYAfw2vWdT3ED1/view?usp=sharing
 
 A professional, well-architected card matching game built with Unity 2021 LTS, following SOLID principles and clean architecture patterns.
 
